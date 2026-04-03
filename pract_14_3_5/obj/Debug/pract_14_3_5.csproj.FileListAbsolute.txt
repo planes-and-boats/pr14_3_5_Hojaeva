@@ -1,0 +1,20 @@
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\bin\Debug\pract_14_3_5.exe.config
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\bin\Debug\pract_14_3_5.exe
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\bin\Debug\pract_14_3_5.pdb
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.csproj.AssemblyReference.cache
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.Form1.resources
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.Properties.Resources.resources
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.csproj.GenerateResource.cache
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.csproj.CoreCompileInputs.cache
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.exe
+C:\Ходжаева ПР-21\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.pdb
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\bin\Debug\pract_14_3_5.exe.config
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\bin\Debug\pract_14_3_5.exe
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\bin\Debug\pract_14_3_5.pdb
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.Form1.resources
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.exe
+C:\Users\Пользователь\Desktop\Бред\Алгоритмизация\pract_14_3_5\pract_14_3_5\obj\Debug\pract_14_3_5.pdb
